@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+}
+
+body{
+  font-family: namusquare;
+  color: #DB82A0;
+  background-color: #FAE6ED;
+}
+
+.black-nav{
+  background-color: #DB82A0;
+  width: 100%;
+  display: flex;
+  color: #FAE6ED;
+  padding: 1.25rem;
+  font-weight: 600;
+  font-size: 1.25rem;
+}
+
+.list{
+  margin-top: 1.875rem;
+  text-align: left;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+  color: #b41558;
+}
+hr{
+  background-color: #322514;
+}
+
+.modal {
+  margin: 1.25rem;
+  padding: 1.25rem;
+  background-color: #322514;
+  color: #d0ab91;
+}
