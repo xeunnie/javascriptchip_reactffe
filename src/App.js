@@ -17,7 +17,8 @@ function App() {
   return (
     <div className="App">
       <div className="black-nav">
-        <div>Web Portfolio by Seungeun</div>
+        <div>Web Portfolio by Seungeun</div> <br></br>
+        <div>react with js</div>
       </div>
       <button onClick={ () => {nextTitle()}}>next</button>
 
